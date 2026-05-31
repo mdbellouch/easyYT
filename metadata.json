@@ -1,0 +1,6 @@
+{
+  "name": "easyYT",
+  "description": "A secure offline-first YouTube Analytics Dashboard and AI Growth Coach providing SEO, Title analysis, and content strategies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
